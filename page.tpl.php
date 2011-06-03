@@ -88,7 +88,7 @@
 	</div>
   <div id="footer">
     <div class="left"><?php print $footer_message . $footer ?></div>
-    <div class="right"><a href="http://drupalservers.net" title="Drupal 6 Themes">Drupal 6 Themes</a> by <a href="http://arborwebdevelopment.com" title"Arbor Web Development">Arbor Web Development</a> | Original Template by <a href="http://nodethirtythree.com" title="Node Thirty Three Design" rel="nofollow">NodeThirtyThree Design</a> and <a href="http://freecsstemplates.org" title="Free CSS Templates" rel="nofollow">Free CSS Templates</a>
+    <div class="right"><a href="http://drupalservers.net" title="Drupal 6 Themes">Drupal 6 Themes</a> by <a href="http://arborwebdevelopment.com" title"Arbor Web Development">Arbor Web Development</a> | Original Template by <a href="http://nodethirtythree.com" title="Node Thirty Three Design">NodeThirtyThree Design</a>.
     </div>
   </div>
 </div>
