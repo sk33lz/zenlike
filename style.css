@@ -441,7 +441,7 @@ h2.pane-title,
   clear: both;
 }
 
-.pane-views-panes .views-row,
+.content-float-left .pane-views-panes .views-row,
 .portfolio-screenshots .views-row {
   float: left;
   margin-right: 6px;
