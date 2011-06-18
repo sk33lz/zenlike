@@ -431,18 +431,14 @@ input {
   margin: 0 2px;
 }
 
-.view-drupal-7-content .views-row, .view-content .views-row {
-  float: left;
-  margin-right: 6px;
-}
-
 h2.pane-title,
 .panel-pane {
   clear: both;
 }
 
 .content-float-left .pane-views-panes .views-row,
-.portfolio-screenshots .views-row {
+.portfolio-screenshots .views-row,
+.view-drupal-7-content .views-row {
   float: left;
   margin-right: 6px;
 } 
