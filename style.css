@@ -445,3 +445,7 @@ h2.pane-title,
 div.panels-ipe-display-container .panel-pane .pane-title {
   padding-right: 34px;
 }
+
+.panel-pane {
+  padding-top: 10px;
+}
