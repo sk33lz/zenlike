@@ -436,12 +436,6 @@ h2.pane-title,
   clear: both;
 }
 
-.content-float-left .pane-views-panes .views-row,
-.portfolio-screenshots .views-row,
-.view-drupal-7-content .views-row {
-  float: left;
-  margin-right: 6px;
-} 
 div.panels-ipe-display-container .panel-pane .pane-title {
   padding-right: 34px;
 }
